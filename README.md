@@ -1,7 +1,7 @@
 # Spaceship-videogame
- A classical spaceship videogame implemented in OpenGL.
+ A classical spaceship videogame implemented in C++ with OpenGL.
 
-# Execution
+# Execució
 Per executar, entra a Binari i clica "Navesita.exe".
 
 # Instruccions
